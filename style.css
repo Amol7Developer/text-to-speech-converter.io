@@ -11,7 +11,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: steelblue;
+  background:seagreen;
 }
 .wrapper{
   width: 370px;
@@ -23,6 +23,7 @@ body{
   font-size: 30px;
   font-weight: 500;
   text-align: center;
+  font-weight: bold;
 }
 .wrapper form{
   margin: 40px 0 25px;
@@ -64,6 +65,7 @@ form button{
   height: 52px;
   margin-top: 10px;
   font-size: 20px;
+  font-weight: bold;
   cursor: pointer;
   background: royalblue;
   color: white;
